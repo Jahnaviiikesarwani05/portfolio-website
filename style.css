@@ -1,0 +1,154 @@
+/* Reset */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Body */
+body{
+    font-family: Arial, sans-serif;
+}
+
+/* Navbar */
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    padding: 20px 50px;
+
+    background-color: black;
+    color: rgb(169, 215, 223);
+}
+
+/* Navbar list */
+nav ul{
+    display: flex;
+    list-style: none;
+}
+
+/* List spacing */
+nav ul li{
+    margin-left: 20px;
+}
+
+/* Links */
+nav ul li a{
+    text-decoration: none;
+    color: white;
+}
+
+/* Hero Section */
+.hero{
+    height: 90vh;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    background-color: #b3e6e7;
+}
+
+/* Hero text */
+.hero-text{
+    text-align: center;
+}
+
+.hero-text h1{
+    font-size: 50px;
+    margin: 10px 0;
+}
+
+.hero-text p{
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+
+/* Button */
+button{
+    padding: 10px 20px;
+    border: none;
+
+    background-color: black;
+    color: white;
+
+    cursor: pointer;
+}
+/* About Section */
+.about{
+    padding: 80px 50px;
+
+    text-align: center;
+
+    background-color: rgb(126, 190, 211);
+}
+
+.about h2{
+    font-size: 35px;
+
+    margin-bottom: 20px;
+}
+
+.about-content{
+    max-width: 700px;
+
+    margin: auto;
+}
+
+.about-content p{
+    font-size: 18px;
+
+    line-height: 1.8;
+}
+
+/* Skills Section */
+.skills{
+    padding: 80px 50px;
+
+    background-color: #8b5b5b;
+
+    text-align: center;
+}
+
+.skills h2{
+    font-size: 35px;
+
+    margin-bottom: 40px;
+}
+
+/* Skill Cards Container */
+.skill-container{
+    display: flex;
+
+    justify-content: center;
+
+    gap: 20px;
+
+    flex-wrap: wrap;
+}
+
+/* Individual Skill Card */
+.skill-card{
+    background-color: rgb(197, 125, 125);
+
+    padding: 30px;
+
+    width: 250px;
+
+    border-radius: 10px;
+
+    box-shadow: 0 4px 10px rgba(206, 88, 88, 0.1);
+
+    transition: 0.3s;
+}
+
+/* Hover Effect */
+.skill-card:hover{
+    transform: translateY(-10px);
+}
+
+/* Skill Title */
+.skill-card h3{
+    margin-bottom: 10px;
+}
