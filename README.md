@@ -74,7 +74,7 @@ No installation or additional software is required.
 
 ## 👩‍💻 Author
 
-**Your Name**
+JAHNAVI KESARWANI
 
 ---
 
