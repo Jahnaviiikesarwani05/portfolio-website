@@ -1,6 +1,7 @@
 # 🌐 Personal Portfolio Website
 
-A responsive personal portfolio website built using **HTML** and **CSS**. This project showcases my profile, skills, projects, education, and contact information through a clean and modern user interface.
+A responsive personal portfolio website built using **HTML** and **CSS**. This project showcases my profile, skills, projects, education, and contact information through a clean and modern user interface..
+
 
 ---
 
