@@ -18,7 +18,7 @@ A responsive personal portfolio website built using **HTML** and **CSS**. This p
 
 ---
 
-## 🛠️ Technologies Used
+## 🛠️ Technologies Usedd
 
 - HTML5
 - CSS3
