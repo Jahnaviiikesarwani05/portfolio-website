@@ -8,7 +8,7 @@ A responsive personal portfolio website built using **HTML** and **CSS**. This p
 ## 📌 Features...
 
 - 🏠 Home section with introduction
-- 👤 About Me section
+- 👤 About Me sectionn
 - 💻 Skills section
 - 📂 Projects showcase
 - 🎓 Education details
