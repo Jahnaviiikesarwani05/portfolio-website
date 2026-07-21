@@ -5,7 +5,7 @@ A responsive personal portfolio website built using **HTML** and **CSS**. This p
 
 ---
 
-## 📌 Features
+## 📌 Features...
 
 - 🏠 Home section with introduction
 - 👤 About Me section
